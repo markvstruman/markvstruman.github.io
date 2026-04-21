@@ -27,3 +27,15 @@ This project was developed using the Unity engine, utilizing C# as the project's
 Play it here!
 https://vicstru.itch.io/legend-of-zelda-nes-eagle-dungeon-custom-dungeon
 
+# JungleJam
+JungleJam is a one-of-a-kind roguelike song-builder!
+
+When an evil witch becomes jealous of the jungle's band, she casts an evil curse upon them -- forcing the critters to be background players for her solo.
+
+Grab your drum and fight to free your friends of witch's curse, and confront her to save your home!
+
+I was in charge of enemy development and setting up early architecture: the conductor that monitors the tempo and our measure position as the song plays, storing note effects in a spell, and ensuring the rhythm editor could support different options with notes of varying quality in subrhythms of varying difficulty.
+
+Play it here!
+https://minoy-joy.itch.io/jungle-jam
+
